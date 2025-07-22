@@ -163,11 +163,6 @@ GET /quiz/all
 
 ---
 
-## 📸 UI Demo
-
-> *(Add screenshots or screen recordings here)*
-
----
 
 ## 👨‍💻 Author
 
